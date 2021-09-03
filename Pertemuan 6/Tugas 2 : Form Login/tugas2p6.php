@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="tugas2p6.css">
 
-    <title>Tugas 1 Pertemuan 6</title>
+    <title>Tugas 1 Pertemuan 6 : Form Login</title>
 
 </head>
 <body>
